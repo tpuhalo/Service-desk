@@ -1,0 +1,8 @@
+- category, priority, department, subdepartment 
+	- jesu li imena zapravo short desc
+
+- priority - što tocno znaci? po firmama, od 1-10, kako se rankira?
+
+- U request što je resolution?
+
+- kad se stvori new request jel se stvara i novi priority/category? (ili se odabere jedan iz baze)?
